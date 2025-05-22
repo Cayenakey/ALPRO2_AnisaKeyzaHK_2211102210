@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 5 <br> Review Pengenalan Pemrograman</h1>
+# <h1 align="center">Laporan Praktikum Modul 5 <br> Rekursif</h1>
 
 <p align="center">ANISA KEYZA HUSNUL KHATIMAH - 2211102210</p>
 
