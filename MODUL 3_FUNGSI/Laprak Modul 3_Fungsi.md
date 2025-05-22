@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 3 <br> Review Pengenalan Pemrograman</h1>
+# <h1 align="center">Laporan Praktikum Modul 3 <br> Fungsi</h1>
 
 <p align="center">ANISA KEYZA HUSNUL KHATIMAH - 2211102210</p>
 
