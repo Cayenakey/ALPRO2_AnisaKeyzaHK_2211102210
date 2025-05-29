@@ -94,10 +94,7 @@ Calon nomor 1 mendapatkan 1 suara, nomor 2 mendapatkan 1 suara, nomor 3 mendapat
 
 Berdasarkan program sebelumnya, buat program pilkart yang mencari siapa pemenang  
 pemilihan ketua RT. Sekaligus juga ditentukan bahwa wakil ketua RT adalah calon yang  
-mendapatkan suara terbanyak kedua. Jika beberapa calon mendapatkan suara terbanyak yang  
-Halaman 8 | M o d u l P r a k t i k u m A l g o r i t m a P e m r o g r a m a n  
-sama, ketua terpilih adalah dengan nomor peserta yang paling kecil dan wakilnya dengan  
-nomor peserta terkecil berikutnya.  
+mendapatkan suara terbanyak kedua. Jika beberapa calon mendapatkan suara terbanyak yang sama, ketua terpilih adalah dengan nomor peserta yang paling kecil dan wakilnya dengan nomor peserta terkecil berikutnya.  
 Masukan hanya satu baris data saja, berisi bilangan bulat valid yang kadang tersisipi dengan  
 data tidak valid. Data valid adalah bilangan bulat dengan nilai di antara 1 s.d. 20 (inklusif). Data  
 berakhir jika ditemukan sebuah bilangan dengan nilai 0.  
